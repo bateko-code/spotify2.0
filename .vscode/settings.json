@@ -1,0 +1,17 @@
+{
+    "path-intellisense.autoSlashAfterDirectory": true,
+    "path-intellisense.autoTriggerNextSuggestion": true,
+    "path-intellisense.extensionOnImport": true,
+    "tailwindCSS.classAttributes": [
+        "class",
+        "className=\"\"",
+        "ngClass"
+    ],
+    "tailwindCSS.emmetCompletions": true,
+    "javascript.preferences.importModuleSpecifier": "relative",
+    "typescript.preferences.importModuleSpecifier": "relative",
+    "cSpell.words": [
+        "millis",
+        "secoonds"
+    ]
+}
